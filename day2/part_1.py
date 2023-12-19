@@ -1,4 +1,4 @@
-import day2_utils
+import utils
 
 capacity = {
   'red': 12,
@@ -8,7 +8,7 @@ capacity = {
 
 def main():
 
-  games = day2_utils.parse_games()
+  games = utils.parse_games()
   result = 0
 
   for index, game in enumerate(games):

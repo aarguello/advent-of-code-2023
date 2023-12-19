@@ -1,8 +1,8 @@
-import math, day2_utils
+import math, utils
 
 def main():
 
-  games = day2_utils.parse_games()
+  games = utils.parse_games()
   result = 0
 
   for game in games:

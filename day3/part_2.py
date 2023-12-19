@@ -1,5 +1,4 @@
-import sys
-import day3_utils as utils
+import sys, utils
 
 engine = [ l.strip() for l in sys.stdin.readlines() ]
 
