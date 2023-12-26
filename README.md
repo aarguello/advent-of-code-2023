@@ -17,3 +17,4 @@ The following index lists all challenges with links to the description and solut
 1. **Trebuchet?!**: [Description](https://adventofcode.com/2023/day/1) | [Solution](https://github.com/aarguello/advent-of-code-2023/blob/main/day1)
 2. **Cube Conundrum**: [Description](https://adventofcode.com/2023/day/2) | [Solution](https://github.com/aarguello/advent-of-code-2023/blob/main/day2)
 3. **Gear Ratios**: [Description](https://adventofcode.com/2023/day/3) | [Solution](https://github.com/aarguello/advent-of-code-2023/blob/main/day3)
+3. **Scratchcards**: [Description](https://adventofcode.com/2023/day/4) | [Solution](https://github.com/aarguello/advent-of-code-2023/blob/main/day4)
